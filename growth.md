@@ -5,3 +5,5 @@
 ### ***2. Skills are built not born.*** A reminder that it takes time and dedication to learn and master something new. It does not come over night. 
 ### ***3. Mistakes are an important part of the process.*** I have to be able to accept that I will fail and make mistakes along the way. Which I don't want to look at that as a bad thing but more as an opportunity to grow and learn. As the great Denzel Washington once said "Nothing in life is worth while unless you take risks. Every failed experiment is one step closer to success."
 ![a28763b3900ed6e22ed582ce94c349f4](https://user-images.githubusercontent.com/90535083/133339913-2fadddca-a348-4395-9e1d-47df3a886935.jpg)
+
+[<==Back](README.md)

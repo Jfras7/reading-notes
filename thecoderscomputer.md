@@ -10,3 +10,16 @@
 3. **Themes** 
 > Themes is all about you the *Coder/Developer* allows for what best suits you and appeals to you. Themes allows the user to make it their own. Lilke adding a wallpaper to your phone or computer. 
 
+4. **Extensions**
+> With extensions you want a healthy selection to be able to choose from. Allows for a greater experiance and allows the user to pick and choose what works best you. Think of these as apps or adding an adblocker on chrome. 
+
+### Command Line/ Terminal
+> is a text based interface, you are able to enter commands by typing them on the keyboard and feed back will be given to you similarly as a text.
+- *pwd* (Print Working Directory) which tells you what your current or present working directory is. 
+- *ls* which is short for list. Tells you what is in said folder or file. 
+
+1. `user@bash: ls`
+2. `bin Documents public_html`
+3. `user@bash`
+
+<==back

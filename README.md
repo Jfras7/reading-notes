@@ -1,15 +1,8 @@
 # reading-notes
-#### This is the notes for Code Fellows
 
-## *I can write some other things here*
+## *This is where myself intro goes update later*
 
-## Growth Mindset
-Growth Mindset is
-I will do
--this
--this
--this
+### Table of contents
 
-> Code Block goes here
+- [Growth Mindset](growth.md)
 
-This will be **bold** and this will be *italics*

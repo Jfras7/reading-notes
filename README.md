@@ -6,4 +6,4 @@
 
 - [Growth Mindset](growth.md)
 - [markdown](markdown.md)
-- [spam](thecoderscomputer.md)
+- [Coders Computer](thecoderscomputer.md)

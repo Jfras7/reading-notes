@@ -9,4 +9,3 @@
 - [Coders Computer](thecoderscomputer.md)
 - [ACP](acp.md)
 - [Revisions and the Cloud](revisionsandcloud.md)
-- 

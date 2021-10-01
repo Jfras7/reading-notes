@@ -1,6 +1,6 @@
 # reading-notes
 
-## *This is where myself intro goes update later*
+## Hi My name is Josh
 
 ### Table of contents
 

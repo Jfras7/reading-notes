@@ -11,3 +11,5 @@ Hyper Text Markup Language or HTML for short is the structure of a web page. Whi
 ## Semantics
 
 Semantics allows for the code to show you rather than looks. It would be something along the lines of when you hear the phrase of moving parts. It's giving something an action of movement rather than an action of eye candy.
+
+[<==Back](README.md)

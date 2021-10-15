@@ -13,3 +13,4 @@
 - [Web Pages With CSS](webpageswithcss.md)
 - [Dynamic Web Pages with JavaScript](dynamicwebpageswithjavascript.md)
 - [Programming With JavaScript](programmingwithjavascript.md)
+- [Operators and Loops](operatorsandloops.md)

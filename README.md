@@ -5,7 +5,7 @@
 ### Table of contents
 
 - [Growth Mindset](102/growth.md)
-- [markdown](102markdown.md)
+- [markdown](102/markdown.md)
 - [Coders Computer](thecoderscomputer.md)
 - [ACP](102/acp.md)
 - [Revisions and the Cloud](revisionsandcloud.md)
@@ -19,9 +19,9 @@
 
 ## My notes for Code 201 reading labs
 
-- [reading1](reading201-1.md)
-- [reading2](reading201-2.md)
-- [reading3](reading201-3.md)
+- [reading1](201/reading201-1.md)
+- [reading2](201/reading201-2.md)
+- [reading3](201/reading201-3.md)
 - [reading4](reading201-4.md)
 - [reading5](reading201-5.md)
 - [reading6](reading201-6.md)

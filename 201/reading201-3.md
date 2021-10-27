@@ -9,3 +9,14 @@
 
 <ul></ul>
     <li>Box dimensions - width, height</li> 
+    <li>Limiting Width - min-width, max-width</li>
+
+The box has 3 different types of appearance: 
+**Border**
+**Margin**
+**Padding**
+
+*Arrays*
+> arrays allows for not just one value but it can store a list of values.
+
+

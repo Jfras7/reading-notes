@@ -4,8 +4,8 @@
 
 ### Table of contents
 
-- [Growth Mindset](growth.md)
-- [markdown](markdown.md)
+- [Growth Mindset](102/growth.md)
+- [markdown](102markdown.md)
 - [Coders Computer](thecoderscomputer.md)
 - [ACP](102/acp.md)
 - [Revisions and the Cloud](revisionsandcloud.md)

@@ -29,3 +29,7 @@
 - Swing: create highly complex animations using @keyframes, animation and animation-iteration
 
 - Inset border: ghost button; a button with no background and a heavy border.
+
+## Project Aristotle
+
+- What I took away from it was the fact that in the work force we lose track of showing empathy and caring about one another. Todays companies push for numbers and forget their employees or act as if they are replaceable. Google spent millions over years to try and figure out the best way to get groups to mesh better. Countless amounts of data and time. Changing of groups and asking questions. Knowing and being proven that groups are much better and the increase in production shows it, but google could not figure it out fully. It basically came down to literally showing that you put back your fear of not putting on that "work face" and allowing yourself to be you when you show up. It takes others to do the same. In sense to show some vulnerability. 
